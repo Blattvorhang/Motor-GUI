@@ -1,7 +1,7 @@
 # Motor GUI
-并励直流电动机工作特性测定实验，基于[zz-f-g/MotorGUI](https://github.com/zz-f-g/MotorGUI)进行修改。
+Measurement experiment of the operating characteristic curves of a brushed DC motor with human-computer interaction interface, developed and modified based on [zz-f-g/MotorGUI](https://github.com/zz-f-g/MotorGUI).
 
-使用人机交互界面完成。
+并励直流电动机工作特性测定实验，使用人机交互界面完成。
 
 ## 依赖环境
 - Python $\ge$ 3.9

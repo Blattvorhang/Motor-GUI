@@ -50,6 +50,15 @@ Measurement experiment of the operating characteristic curves of a separately ex
 
 ![](./images/U_changed_fit.png)
 
-电机YAML配置文件
+## 参数说明
+电机YAML配置文件如下：
 
 ![](./images/yaml.png)
+
+- PN - 额定功率 $P_N$
+- UN - 额定工作电压 $U_N$
+- nN - 额定转速 $n_N$
+- IN - 额定电流 $I_N$
+- Ra - 电枢回路总电阻 $R_{\text{a}}$
+- Rf - 励磁回路总电阻 $R_{\text{f}}$
+- error_sigma - 加性高斯白噪声标准差 $\sigma$

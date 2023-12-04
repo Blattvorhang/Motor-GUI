@@ -1,5 +1,5 @@
 # Motor GUI
-Measurement experiment of the operating characteristic curves of a separately excited DC motor with human-computer interaction interface, developed and modified based on [zz-f-g/MotorGUI](https://github.com/zz-f-g/MotorGUI).
+Measurement experiment of the operating characteristic curves of a shunt wound DC motor with human-computer interaction interface, developed and modified based on [zz-f-g/MotorGUI](https://github.com/zz-f-g/MotorGUI).
 
 并励直流电动机工作特性测定实验，使用人机交互界面完成。
 

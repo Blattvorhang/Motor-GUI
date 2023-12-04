@@ -38,15 +38,15 @@ Measurement experiment of the operating characteristic curves of a brushed DC mo
 
 ![](./images/R_changed_scatter.png)
 
-改变电枢串联电阻$R_{\Omega}$
+改变电枢串联电阻 $R_{\Omega}$
 
 ![](./images/R_changed_fit.png)
 
-改变励磁回路电阻$R_{\text{f}}$
+改变励磁回路电阻 $R_{\text{f}}$
 
 ![](./images/Rf_changed_fit.png)
 
-改变输入电压$U$
+改变输入电压 $U$
 
 ![](./images/U_changed_fit.png)
 
